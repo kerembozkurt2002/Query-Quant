@@ -107,7 +107,7 @@ BACKEND_URL=http://localhost:8000
 
 ---
 
-##  LangGraph Workflow  
+## 🧩 LangGraph Workflow  
 
 <img src="assets/graph.png" alt="Workflow" width="300" height=""/>
 
