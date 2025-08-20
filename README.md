@@ -115,7 +115,7 @@ BACKEND_URL=http://localhost:8000
 
 ## 📸 Demo  
 
-<img src="assets/demo.png" alt="Demo" width="400"/>
+<img src="assets/demo.png" alt="Demo" width="600"/>
 
 ---
 
