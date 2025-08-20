@@ -109,13 +109,13 @@ BACKEND_URL=http://localhost:8000
 
 ##  LangGraph Workflow  
 
-![Workflow](assets/graph.png)
+<img src="assets/graph.png" alt="Workflow" width="300" height=""/>
 
 ---
 
 ## 📸 Demo  
 
-![Query-Quant Demo](assets/demo.png)
+<img src="assets/demo.png" alt="Demo" width="400"/>
 
 ---
 
