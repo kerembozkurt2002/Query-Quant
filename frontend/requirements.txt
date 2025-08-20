@@ -1,0 +1,6 @@
+pandas==2.3.1
+Requests==2.32.4
+streamlit==1.47.1
+xlrd
+openpyxl
+xlsxwriter
