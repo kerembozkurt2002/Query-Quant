@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-HOST = os.getenv("HOST")
-PORT = int(os.getenv("PORT"))
-SQL_REGENERATE_LIMIT = int(os.getenv("SQL_REGENERATE_LIMIT"))
-SQL_EXECUTION_LIMIT = int(os.getenv("SQL_EXECUTION_LIMIT"))
+HOST = "0.0.0.0"
+PORT = 8000
+SQL_REGENERATE_LIMIT = 2
+SQL_EXECUTION_LIMIT = 2
